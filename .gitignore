@@ -1,0 +1,42 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Secrets (never push API keys)
+.env
+.env.local
+*.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional: uncomment if data/models are too large for GitHub
+# data/raw/
+# data/processed/
+
+CHECKLIST_TEST_MD.md
+PROJECT_GUIDE_FA.md
+test.md

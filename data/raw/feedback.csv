@@ -1,0 +1,81 @@
+feedback_id,date,source,customer_email,text
+1,2023-09-09,contact_form,user80@example.com,Some items were missing from my order.
+2,2023-12-16,contact_form,user68@example.com,"Beautiful design, very happy."
+3,2023-09-01,email,user51@example.com,Best online purchase this year!
+4,2023-12-03,contact_form,,The vase broke during shipping.
+5,2023-10-10,email,user25@example.com,The vase broke during shipping.
+6,2023-11-02,email,user146@example.com,"Amazing craftsmanship, highly recommend."
+7,2023-10-04,contact_form,,Not satisfied with the quality.
+8,2023-10-29,email,user132@example.com,Order arrived late.
+9,2023-10-25,email,,Order arrived late.
+10,2023-11-03,email,user187@example.com,"Beautiful design, very happy."
+11,2023-10-18,email,,Not satisfied with the quality.
+12,2023-11-04,email,user172@example.com,"Great customer service, thank you."
+13,2023-12-09,contact_form,,Not satisfied with the quality.
+14,2023-10-23,contact_form,,Some items were missing from my order.
+15,2023-10-14,email,,"Amazing craftsmanship, highly recommend."
+16,2023-09-16,email,,Delivery was slow but product is good.
+17,2023-10-14,contact_form,user182@example.com,Expected better for the price.
+18,2023-09-16,email,,Some items were missing from my order.
+19,2023-09-22,email,user182@example.com,Some items were missing from my order.
+20,2023-12-24,contact_form,user153@example.com,Delivery was slow but product is good.
+21,2023-09-11,contact_form,user190@example.com,"Amazing craftsmanship, highly recommend."
+22,2023-10-28,contact_form,,Delivery was slow but product is good.
+23,2023-12-10,email,user12@example.com,"Amazing craftsmanship, highly recommend."
+24,2023-12-24,email,user64@example.com,Expected better for the price.
+25,2023-09-18,contact_form,user88@example.com,"Amazing craftsmanship, highly recommend."
+26,2023-09-20,email,,"Love the handmade soap, will buy again!"
+27,2023-10-15,contact_form,user137@example.com,Expected better for the price.
+28,2023-11-06,email,user192@example.com,"Love the handmade soap, will buy again!"
+29,2023-12-25,email,user122@example.com,Not satisfied with the quality.
+30,2023-09-25,contact_form,user169@example.com,"Love the handmade soap, will buy again!"
+31,2023-09-20,email,user170@example.com,Delivery was slow but product is good.
+32,2023-10-01,contact_form,user140@example.com,"Great customer service, thank you."
+33,2023-12-14,contact_form,user97@example.com,Some items were missing from my order.
+34,2023-09-04,contact_form,user161@example.com,"Beautiful design, very happy."
+35,2023-10-16,email,user48@example.com,Delivery was slow but product is good.
+36,2023-09-15,contact_form,user63@example.com,"Love the handmade soap, will buy again!"
+37,2023-09-19,contact_form,user168@example.com,The vase broke during shipping.
+38,2023-12-20,email,user199@example.com,Perfect gift for my mother.
+39,2023-09-01,contact_form,user152@example.com,Order arrived late.
+40,2023-10-09,contact_form,user125@example.com,"Beautiful design, very happy."
+41,2023-12-19,contact_form,,The vase broke during shipping.
+42,2023-11-12,email,user91@example.com,Not satisfied with the quality.
+43,2023-09-09,email,,"Love the handmade soap, will buy again!"
+44,2023-10-26,email,,Delivery was slow but product is good.
+45,2023-12-26,email,user72@example.com,"Love the handmade soap, will buy again!"
+46,2023-10-19,email,,Some items were missing from my order.
+47,2023-11-03,contact_form,user81@example.com,"Amazing craftsmanship, highly recommend."
+48,2023-11-03,email,user114@example.com,"Beautiful design, very happy."
+49,2023-11-19,email,,Expected better for the price.
+50,2023-09-23,contact_form,user33@example.com,Expected better for the price.
+51,2023-12-10,email,user26@example.com,"Great customer service, thank you."
+52,2023-12-28,email,,"Beautiful design, very happy."
+53,2023-09-18,email,user167@example.com,"Love the handmade soap, will buy again!"
+54,2023-12-08,email,,Delivery was slow but product is good.
+55,2023-12-08,email,user90@example.com,"Great customer service, thank you."
+56,2023-11-28,email,,The vase broke during shipping.
+57,2023-10-15,contact_form,,Expected better for the price.
+58,2023-10-27,contact_form,user199@example.com,Order arrived late.
+59,2023-12-10,email,user175@example.com,Perfect gift for my mother.
+60,2023-09-19,contact_form,user186@example.com,"Amazing craftsmanship, highly recommend."
+61,2023-12-09,email,,"Amazing craftsmanship, highly recommend."
+62,2023-12-20,email,,"Beautiful design, very happy."
+63,2023-11-21,contact_form,user49@example.com,Not satisfied with the quality.
+64,2023-10-11,email,user54@example.com,Expected better for the price.
+65,2023-11-07,email,user90@example.com,Expected better for the price.
+66,2023-09-07,contact_form,user22@example.com,"Beautiful design, very happy."
+67,2023-12-21,email,,Order arrived late.
+68,2023-10-12,email,user101@example.com,"Great customer service, thank you."
+69,2023-09-07,contact_form,user110@example.com,"Amazing craftsmanship, highly recommend."
+70,2023-12-05,contact_form,user159@example.com,The vase broke during shipping.
+71,2023-11-18,email,user130@example.com,The vase broke during shipping.
+72,2023-11-14,contact_form,user6@example.com,Not satisfied with the quality.
+73,2023-09-07,email,,Perfect gift for my mother.
+74,2023-11-30,email,user103@example.com,Not satisfied with the quality.
+75,2023-11-16,contact_form,user64@example.com,Perfect gift for my mother.
+76,2023-12-05,contact_form,user63@example.com,"Beautiful design, very happy."
+77,2023-12-09,email,user41@example.com,Best online purchase this year!
+78,2023-09-26,email,user10@example.com,Delivery was slow but product is good.
+79,2023-09-26,email,user64@example.com,"Beautiful design, very happy."
+80,2023-12-20,contact_form,user157@example.com,Delivery was slow but product is good.

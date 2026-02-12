@@ -1,0 +1,31 @@
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=14.0.0
+
+# Extraction: HTTP & scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# NLP
+nltk>=3.8.0
+# spacy optional - use: python -m spacy download en_core_web_sm
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Hugging Face sentiment (optional - uncomment if needed)
+# transformers>=4.35.0
+# datasets>=2.14.0
+# torch>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
